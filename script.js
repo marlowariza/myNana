@@ -5,6 +5,6 @@ function goToNote() {
   
   // Por ahora solo muestra un mensaje, luego se implementará la línea de tiempo
   function expandTimeline() {
-    alert("Aquí se expandirá la línea de tiempo con nuestras memorias.");
+    alert("Aquí se expandirá la línea de tiempo con las mems.");
   }
   
